@@ -1,6 +1,6 @@
-yellow
-red
-blue
-pink
-green
-black
+cow
+dog
+cat
+pig
+elephant
+giraffe
