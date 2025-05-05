@@ -9,3 +9,5 @@ In the second commit i.e. "animal list", I changed list to a list of animals.
 In the third commit i.e. "item list", I changed list to list of random items.
 In the fourth commit i.e "car list", I changed the list to a list of cars.
 ## these are the required changes in the readme file for assignment 2.
+## screenshot of successful pull request and merge.
+![image](https://github.com/user-attachments/assets/7916bdc4-bfb7-4833-9766-20c1e6ea31a1)
