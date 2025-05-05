@@ -1,6 +1,6 @@
-chair
-table
-fan
-bottle
-laptop
-watch
+verna
+swift
+baleno
+xuv
+duster
+creta
