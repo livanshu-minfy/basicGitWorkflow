@@ -1,6 +1,6 @@
-cow
-dog
-cat
-pig
-elephant
-giraffe
+chair
+table
+fan
+bottle
+laptop
+watch
