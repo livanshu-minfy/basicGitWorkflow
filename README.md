@@ -8,3 +8,4 @@ In the first commit i.e. "first commit", I made a list of colours.
 In the second commit i.e. "animal list", I changed list to a list of animals.
 In the third commit i.e. "item list", I changed list to list of random items.
 In the fourth commit i.e "car list", I changed the list to a list of cars.
+## these are the required changes in the readme file for assignment 2.
